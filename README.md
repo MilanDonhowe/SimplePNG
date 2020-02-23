@@ -1,2 +1,4 @@
 # SimplePNG
-A very basic png chunk decoder.
+An experimental png file chunk decoder which might eventually turn into something interesting.
+
+
